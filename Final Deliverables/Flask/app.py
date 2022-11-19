@@ -9,6 +9,7 @@ import inputScript
 app = Flask(__name__)
 model = pickle.load(open('Phishing_Website.pkl', 'rb'))
 
+#Redirects to the home page
 @app.route('/')
 def Home():
     return render_template('index.html')
@@ -51,7 +52,7 @@ def predict_api():
     output = prediction[0]
     return jsonify(output)
 
-
+#Takes the user query and store into database
 @app.route("/RecievedData", methods=['POST'])
 def result():
     USERNAME= request.form['USERNAME']
