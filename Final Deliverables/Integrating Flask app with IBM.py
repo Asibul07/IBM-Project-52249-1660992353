@@ -16,6 +16,7 @@ header = {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + mltok
 app = Flask(__name__)
 model = pickle.load(open('Phishing_Website.pkl', 'rb'))
 
+#Redirects to the page to give the user input URL
 @app.route('/')
 def Home():
     return render_template('index.html')
@@ -34,8 +35,8 @@ def y_predict():
     url = request.form['URL']
     checkprediction = inputScript.main(url)
     print(checkprediction)
+    
     payload_scoring = {"input_data": [{"field": [["f0","f1","f2","f3","f4","f5","f6","f7","f8","f9","f10","f11","f12","f13","f14","f15","f16","f17","f18","f19","f20","f21","f22","f23","f24","f25","f26","f27","f28","f29"]], "values": checkprediction}]}
-
     response_scoring = requests.post('https://us-south.ml.cloud.ibm.com/ml/v4/deployments/f414192c-67ae-40dd-a0cf-bf6b8af3cbb5/predictions?version=2022-10-31', json=payload_scoring, headers={'Authorization': 'Bearer ' + mltoken})
    
     print("Scoring response")
@@ -60,7 +61,6 @@ def y_predict():
     return render_template('Final.html', prediction_text='{}'.format(pred),url=url)
 
 #Takes the input parameters fetched from the URL by inputScript and returns the predictions
-
 @app.route('/predict_api',methods=['POST'])
 def predict_api():
     '''
@@ -72,6 +72,7 @@ def predict_api():
     output = prediction[0]
     return jsonify(output)
 
+#Takes the input parameters fetched from the URL by inputScript and returns the predictions
 @app.route("/RecievedData", methods=['POST'])
 def result():
     USERNAME= request.form['USERNAME']
