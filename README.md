@@ -76,11 +76,10 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - [Sprint 3✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%203) <br>
 - [Sprint 4✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%204)
 
-# [Final Deliverables✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Final%20Deliverables)
-
 # [1.User Acceptance Testing✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/User%20Acceptance%20Testing) <br>
 - [UAT Report](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/UAT%20Report.pdf)
 - [Testcases Report](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/Testcases%20Report.pdf)<br>
 
 # [2.Performance Testing✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/Performance%20Testing/Performance%20Testing%20-%20Machine%20Learning.pdf)
 
+# [Final Deliverables✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Final%20Deliverables)
