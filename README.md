@@ -70,15 +70,15 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - [Project_Planning Sprint_Schedules✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project_Planning%20Sprint_Schedules.pdf)
 - [Milestones & Tasks✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
 
-# [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase)
+# [Project Development Phase✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase)
 - [Sprint 1✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%201) <br>
 - [Sprint 2✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%202) <br>
 - [Sprint 3✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%203) <br>
 - [Sprint 4✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%204)
 
 # [1.User Acceptance Testing✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/User%20Acceptance%20Testing) <br>
-- [UAT Report](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/UAT%20Report.pdf)
-- [Testcases Report](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/Testcases%20Report.pdf)<br>
+- [UAT Report✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/UAT%20Report.pdf)
+- [Testcases Report✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/User%20Acceptance%20Testing/Testcases%20Report.pdf)<br>
 
 # [2.Performance Testing✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/Performance%20Testing/Performance%20Testing%20-%20Machine%20Learning.pdf)
 
