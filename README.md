@@ -72,8 +72,8 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 
 # [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase)
 - [Sprint 1✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%201) <br>
-- [Sprint 2⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%202) <br>
-- [Sprint 3⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%203) <br>
-- [Sprint 4⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%204)
+- [Sprint 2✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%202) <br>
+- [Sprint 3✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%203) <br>
+- [Sprint 4✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%204)
 
 # [Final Deliverables⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Final%20Deliverables)
