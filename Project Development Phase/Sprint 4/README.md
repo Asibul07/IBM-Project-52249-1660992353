@@ -3,7 +3,7 @@
   <img src="https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/Sprint%204/IBM%20Account/Screenshot%20(61).png" width="550" hight="300" title="Phishing Attack"]
 </p>
 
-[Deployment_Scoring_endpoint_in_IBM](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/Sprint%204/Integrate%20Flask%20With%20Scoring%20End%20Point/Deployment_Scoring_endpoint_in_IBM.py) 
+[Deployment Scoring Endpoint in IBM](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Development%20Phase/Sprint%204/Integrate%20Flask%20With%20Scoring%20End%20Point/Deployment_Scoring_endpoint_in_IBM.py) 
   
   
 <h2 align="center" style="margin-top: 0px;"> TECHNOLOGY - Machine Learning </h2>
